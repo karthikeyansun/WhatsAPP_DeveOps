@@ -1,0 +1,2 @@
+Step 1 : Create the intial setup in Git HUB
+Step 2 : Create the repositry and commit the changes
