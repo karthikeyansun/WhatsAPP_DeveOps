@@ -3,3 +3,6 @@ Step 2 : Create the repositry and commit the changes
 
 Step 3 : add next steps to check the version changes
 Step 4 : again commmit the file
+
+Step5: create a new branch
+Step6: merge the branch with master
